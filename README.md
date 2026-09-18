@@ -1,3 +1,5 @@
+![Sudhir GitHub Banner](./sudhir-readme-banner.png)
+
 # Hi, I'm Sudhir 👋
 
 ### Software Engineer • Backend Engineer • Full-Stack Developer • AI Engineer
