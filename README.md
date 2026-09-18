@@ -1,4 +1,4 @@
-![Sudhir GitHub Banner](./sudhir-readme-banner.png)
+![Sudhir GitHub Banner](./banner.png)
 
 # Hi, I'm Sudhir 👋
 
